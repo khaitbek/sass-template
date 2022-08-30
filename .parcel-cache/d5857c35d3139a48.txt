@@ -1,25 +1,23 @@
 4329
 60/home/khaitbek/Desktop/sass_projects/sass-template/README.md1661766438162247906 0
-77/home/khaitbek/Desktop/sass_projects/sass-template/dist/views.b5efe8f0.js.map1661767683631463710 0
-73/home/khaitbek/Desktop/sass_projects/sass-template/dist/views.b5efe8f0.js1661767683628130353 0
-78/home/khaitbek/Desktop/sass_projects/sass-template/dist/index.b10d73a7.css.map1661767683448129049 0
-66/home/khaitbek/Desktop/sass_projects/sass-template/dist/index.html1661767683444795691 0
-55/home/khaitbek/Desktop/sass_projects/sass-template/dist1661767683631463710 1
+66/home/khaitbek/Desktop/sass_projects/sass-template/dist/index.html1661819085027028854 0
+55/home/khaitbek/Desktop/sass_projects/sass-template/dist1661819085033695407 1
 83/home/khaitbek/Desktop/sass_projects/sass-template/src/scss/vendors/_normalize.scss1661767385779306795 0
 67/home/khaitbek/Desktop/sass_projects/sass-template/src/scss/vendors1661767385779306795 1
 85/home/khaitbek/Desktop/sass_projects/sass-template/src/scss/abstracts/_functions.scss1661767080197092833 0
-82/home/khaitbek/Desktop/sass_projects/sass-template/src/scss/abstracts/_mixins.scss1661767080197092833 0
-69/home/khaitbek/Desktop/sass_projects/sass-template/src/scss/abstracts1661767080197092833 1
+82/home/khaitbek/Desktop/sass_projects/sass-template/src/scss/abstracts/_mixins.scss1661779622812939116 0
+69/home/khaitbek/Desktop/sass_projects/sass-template/src/scss/abstracts1661780852531472689 1
 84/home/khaitbek/Desktop/sass_projects/sass-template/src/scss/components/_buttons.scss1661767266265107845 0
 70/home/khaitbek/Desktop/sass_projects/sass-template/src/scss/components1661767266265107845 1
 76/home/khaitbek/Desktop/sass_projects/sass-template/src/scss/base/_fonts.scss1661767110167310125 0
-64/home/khaitbek/Desktop/sass_projects/sass-template/src/scss/base1661767143324217117 1
-66/home/khaitbek/Desktop/sass_projects/sass-template/src/scss/images1661766916182568480 1
+77/home/khaitbek/Desktop/sass_projects/sass-template/src/scss/base/_colors.scss1661780843521069227 0
+64/home/khaitbek/Desktop/sass_projects/sass-template/src/scss/base1661780963554890343 1
+66/home/khaitbek/Desktop/sass_projects/sass-template/src/scss/images1661819070930602189 1
 76/home/khaitbek/Desktop/sass_projects/sass-template/src/scss/pages/_home.scss1661767365379159049 0
 65/home/khaitbek/Desktop/sass_projects/sass-template/src/scss/pages1661767365379159049 1
 79/home/khaitbek/Desktop/sass_projects/sass-template/src/scss/layout/_footer.scss1661767307945409747 0
 79/home/khaitbek/Desktop/sass_projects/sass-template/src/scss/layout/_header.scss1661767307945409747 0
-71/home/khaitbek/Desktop/sass_projects/sass-template/src/views/index.html1661767614610963912 0
+71/home/khaitbek/Desktop/sass_projects/sass-template/src/views/index.html1661819060007454730 0
 63/home/khaitbek/Desktop/sass_projects/sass-template/package.json1661767682264787147 0
 87/home/khaitbek/Desktop/sass_projects/sass-template/node_modules/lines-and-columns/build1661766627560438518 1
 83/home/khaitbek/Desktop/sass_projects/sass-template/node_modules/immutable/README.md1661767682154786350 0
@@ -211,7 +209,7 @@
 116/home/khaitbek/Desktop/sass_projects/sass-template/node_modules/@swc/helpers/lib/_class_static_private_method_get.js1661766627727106450 0
 112/home/khaitbek/Desktop/sass_projects/sass-template/node_modules/@swc/helpers/lib/_is_native_reflect_construct.js1661766627763773395 0
 92/home/khaitbek/Desktop/sass_projects/sass-template/node_modules/@swc/helpers/lib/_extends.js1661766627753773319 0
-54/home/khaitbek/Desktop/sass_projects/sass-template/src1661766794711681493 1
+54/home/khaitbek/Desktop/sass_projects/sass-template/src1661779429167668902 1
 90/home/khaitbek/Desktop/sass_projects/sass-template/node_modules/@swc/helpers/lib/_throw.js1661766627783773547 0
 90/home/khaitbek/Desktop/sass_projects/sass-template/node_modules/dotenv-expand/package.json1661766627500438063 0
 91/home/khaitbek/Desktop/sass_projects/sass-template/node_modules/@swc/helpers/lib/_update.js1661766627793773623 0
@@ -311,6 +309,7 @@
 86/home/khaitbek/Desktop/sass_projects/sass-template/node_modules/msgpackr/dist/index.js1661766627637105767 0
 90/home/khaitbek/Desktop/sass_projects/sass-template/node_modules/msgpackr/dist/index.min.js1661766627660439277 0
 77/home/khaitbek/Desktop/sass_projects/sass-template/node_modules/msgpackr/dist1661766627687106147 1
+80/home/khaitbek/Desktop/sass_projects/sass-template/src/scss/base/_container.scss1661814563893022710 0
 120/home/khaitbek/Desktop/sass_projects/sass-template/node_modules/@swc/helpers/lib/_class_static_private_field_spec_set.js1661766627720439733 0
 82/home/khaitbek/Desktop/sass_projects/sass-template/node_modules/msgpackr/pack.d.ts1661766627737106526 0
 80/home/khaitbek/Desktop/sass_projects/sass-template/node_modules/msgpackr/LICENSE1661766627500438063 0
@@ -379,7 +378,7 @@
 110/home/khaitbek/Desktop/sass_projects/sass-template/node_modules/@parcel/package-manager/src/JSONParseStream.js1661766627770440113 0
 107/home/khaitbek/Desktop/sass_projects/sass-template/node_modules/@parcel/package-manager/src/NodeResolver.js1661766627777106830 0
 100/home/khaitbek/Desktop/sass_projects/sass-template/node_modules/@parcel/package-manager/src/index.js1661766627673772712 0
-81/home/khaitbek/Desktop/sass_projects/sass-template/src/scss/base/_typography.scss1661767143324217117 0
+81/home/khaitbek/Desktop/sass_projects/sass-template/src/scss/base/_typography.scss1661780935507600636 0
 113/home/khaitbek/Desktop/sass_projects/sass-template/node_modules/@parcel/package-manager/src/promiseFromProcess.js1661766627783773547 0
 111/home/khaitbek/Desktop/sass_projects/sass-template/node_modules/@parcel/package-manager/src/NodeResolverSync.js1661766627780440189 0
 111/home/khaitbek/Desktop/sass_projects/sass-template/node_modules/@parcel/package-manager/src/NodeResolverBase.js1661766627780440189 0
@@ -680,6 +679,7 @@
 94/home/khaitbek/Desktop/sass_projects/sass-template/node_modules/@parcel/css/node/index.js.flow1661766627540438367 0
 105/home/khaitbek/Desktop/sass_projects/sass-template/node_modules/@parcel/css/node/browserslistToTargets.js1661766627550438442 0
 90/home/khaitbek/Desktop/sass_projects/sass-template/node_modules/@parcel/css/node/index.mjs1661766627620438974 0
+78/home/khaitbek/Desktop/sass_projects/sass-template/dist/index.bd9ac6b2.css.map1661819085033695407 0
 109/home/khaitbek/Desktop/sass_projects/sass-template/node_modules/@parcel/fs-search/fs-search.darwin-arm64.node1661766627687106147 0
 111/home/khaitbek/Desktop/sass_projects/sass-template/node_modules/@parcel/fs-search/fs-search.win32-x64-msvc.node1661766627847107361 0
 80/home/khaitbek/Desktop/sass_projects/sass-template/node_modules/parcel/README.md1661766627653772560 0
@@ -1283,7 +1283,7 @@
 91/home/khaitbek/Desktop/sass_projects/sass-template/node_modules/@parcel/plugin/package.json1661766627587105388 0
 175/home/khaitbek/Desktop/sass_projects/sass-template/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/side-effects-package-redirect-down/foo/bar/baz/real-bar.js1661766627980441707 0
 113/home/khaitbek/Desktop/sass_projects/sass-template/node_modules/caniuse-lite/data/features/http-live-streaming.js1661766627973774989 0
-78/home/khaitbek/Desktop/sass_projects/sass-template/src/scss/base/_default.scss1661767100823909055 0
+78/home/khaitbek/Desktop/sass_projects/sass-template/src/scss/base/_default.scss1661780967914974708 0
 107/home/khaitbek/Desktop/sass_projects/sass-template/node_modules/caniuse-lite/data/features/text-emphasis.js1661766628117109410 0
 90/home/khaitbek/Desktop/sass_projects/sass-template/node_modules/csso/lib/replace/String.js1661766627790440264 0
 84/home/khaitbek/Desktop/sass_projects/sass-template/node_modules/@swc/helpers/scripts1661766627853774078 1
@@ -1342,7 +1342,7 @@
 114/home/khaitbek/Desktop/sass_projects/sass-template/node_modules/caniuse-lite/data/features/css-element-function.js1661766627853774078 0
 81/home/khaitbek/Desktop/sass_projects/sass-template/node_modules/sass/types/legacy1661767682214786785 1
 102/home/khaitbek/Desktop/sass_projects/sass-template/node_modules/caniuse-lite/data/features/template.js1661766628117109410 0
-69/home/khaitbek/Desktop/sass_projects/sass-template/src/scss/main.scss1661767623037691599 0
+69/home/khaitbek/Desktop/sass_projects/sass-template/src/scss/main.scss1661819076650504821 0
 110/home/khaitbek/Desktop/sass_projects/sass-template/node_modules/caniuse-lite/data/features/web-app-manifest.js1661766628140442921 0
 107/home/khaitbek/Desktop/sass_projects/sass-template/node_modules/caniuse-lite/data/features/notifications.js1661766627997108500 0
 107/home/khaitbek/Desktop/sass_projects/sass-template/node_modules/caniuse-lite/data/features/passwordrules.js1661766628000441858 0
@@ -2339,7 +2339,7 @@
 95/home/khaitbek/Desktop/sass_projects/sass-template/node_modules/posthtml-parser/dist/index.d.ts1661766627643772484 0
 93/home/khaitbek/Desktop/sass_projects/sass-template/node_modules/v8-compile-cache/CHANGELOG.md1661766627567105236 0
 103/home/khaitbek/Desktop/sass_projects/sass-template/node_modules/@parcel/packager-css/lib/CSSPackager.js1661766627543771725 0
-50/home/khaitbek/Desktop/sass_projects/sass-template1661767683428128904 1
+50/home/khaitbek/Desktop/sass_projects/sass-template1661819085017029025 1
 94/home/khaitbek/Desktop/sass_projects/sass-template/node_modules/@parcel/watcher/src/Watcher.cc1661766627687106147 0
 100/home/khaitbek/Desktop/sass_projects/sass-template/node_modules/@jridgewell/gen-mapping/package.json1661766627557105160 0
 84/home/khaitbek/Desktop/sass_projects/sass-template/node_modules/electron-to-chromium1661766627700439581 1
@@ -2383,7 +2383,6 @@
 82/home/khaitbek/Desktop/sass_projects/sass-template/node_modules/.package-lock.json1661767682288120649 0
 89/home/khaitbek/Desktop/sass_projects/sass-template/node_modules/@jridgewell/set-array/src1661766627623772333 1
 86/home/khaitbek/Desktop/sass_projects/sass-template/node_modules/tslib/modules/index.js1661766627550438442 0
-74/home/khaitbek/Desktop/sass_projects/sass-template/dist/index.b10d73a7.css1661767683441462334 0
 110/home/khaitbek/Desktop/sass_projects/sass-template/node_modules/caniuse-lite/data/features/css-font-palette.js1661766627903774458 0
 108/home/khaitbek/Desktop/sass_projects/sass-template/node_modules/caniuse-lite/data/features/css-page-break.js1661766627927107969 0
 94/home/khaitbek/Desktop/sass_projects/sass-template/node_modules/nth-check/lib/esm/parse.js.map1661766627690439505 0
@@ -2546,7 +2545,7 @@
 102/home/khaitbek/Desktop/sass_projects/sass-template/node_modules/cosmiconfig/dist/ExplorerBase.d.ts.map1661766627670439354 0
 94/home/khaitbek/Desktop/sass_projects/sass-template/node_modules/css-what/lib/commonjs/types.js1661766627670439354 0
 111/home/khaitbek/Desktop/sass_projects/sass-template/node_modules/@parcel/core/test/fixtures/plugins/node_modules1661766627920441251 1
-61/home/khaitbek/Desktop/sass_projects/sass-template/.gitignore1661766452179036590 0
+61/home/khaitbek/Desktop/sass_projects/sass-template/.gitignore1661767959980131490 0
 95/home/khaitbek/Desktop/sass_projects/sass-template/node_modules/caniuse-lite/data/regions/FM.js1661766627967108272 0
 119/home/khaitbek/Desktop/sass_projects/sass-template/node_modules/@jridgewell/trace-mapping/dist/trace-mapping.umd.js.map1661766627653772560 0
 106/home/khaitbek/Desktop/sass_projects/sass-template/node_modules/@parcel/packager-js/lib/ESMOutputFormat.js1661766627643772484 0
@@ -3876,6 +3875,7 @@
 102/home/khaitbek/Desktop/sass_projects/sass-template/node_modules/@parcel/transformer-image/package.json1661766627640439126 0
 89/home/khaitbek/Desktop/sass_projects/sass-template/node_modules/is-arrayish/.istanbul.yml1661766627587105388 0
 97/home/khaitbek/Desktop/sass_projects/sass-template/node_modules/domelementtype/lib/esm/index.d.ts1661766627647105843 0
+74/home/khaitbek/Desktop/sass_projects/sass-template/dist/index.bd9ac6b2.css1661819085027028854 0
 117/home/khaitbek/Desktop/sass_projects/sass-template/node_modules/@parcel/core/test/fixtures/config-malformed/.parcelrc1661766627623772333 0
 87/home/khaitbek/Desktop/sass_projects/sass-template/node_modules/is-arrayish/.travis.yml1661766627597105463 0
 109/home/khaitbek/Desktop/sass_projects/sass-template/node_modules/msgpackr-extract/src/.vs/ProjectSettings.json1661766627747106602 0
@@ -3994,7 +3994,7 @@
 88/home/khaitbek/Desktop/sass_projects/sass-template/node_modules/nth-check/lib/parse.d.ts1661766627710439657 0
 108/home/khaitbek/Desktop/sass_projects/sass-template/node_modules/@babel/highlight/node_modules/supports-color1661766627557105160 1
 80/home/khaitbek/Desktop/sass_projects/sass-template/node_modules/json5/LICENSE.md1661766627697106222 0
-85/home/khaitbek/Desktop/sass_projects/sass-template/src/scss/abstracts/_variables.scss1661767080197092833 0
+85/home/khaitbek/Desktop/sass_projects/sass-template/src/scss/abstracts/_variables.scss1661818714133284233 0
 74/home/khaitbek/Desktop/sass_projects/sass-template/node_modules/json5/dist1661766627707106298 1
 90/home/khaitbek/Desktop/sass_projects/sass-template/node_modules/@parcel/core/test/fixtures1661766628137109562 1
 84/home/khaitbek/Desktop/sass_projects/sass-template/node_modules/json5/dist/index.mjs1661766627720439733 0
